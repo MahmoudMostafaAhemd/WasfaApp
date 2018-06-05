@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_gray"
+    android:descendantFocusability="blocksDescendants"
+    android:layoutDirection="rtl">
+
+    <View
+        android:id="@+id/dummy_view"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:layout_centerInParent="true" />
+
+    <ImageView
+        android:id="@+id/refresh_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/refresh"
+        android:layout_centerInParent="true"
+        android:src="@drawable/ic_no_net"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/refresh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/dummy_view"
+        android:layout_centerInParent="true"
+        android:drawablePadding="@dimen/_8sdp"
+        android:text="@string/internet_problem"
+        android:textColor="@color/mid_gray"
+        android:textSize="15sp"
+        android:visibility="gone" />
+
+    <ProgressBar
+        android:id="@+id/loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:indeterminate="true" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:padding="@dimen/_2sdp" />
+
+</RelativeLayout>

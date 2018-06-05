@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layoutDirection="rtl"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="@dimen/_140sdp"
+            android:layout_height="@dimen/_230sdp"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            tools:background="@android:color/white" />
+
+        <View
+            android:layout_width="@dimen/_140sdp"
+            android:layout_height="@dimen/_55sdp"
+            android:layout_gravity="bottom"
+            android:background="@drawable/shadow" />
+
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="bottom|start"-->
+            <!--android:layout_margin="@dimen/_8sdp"-->
+            <!--android:src="@drawable/ic_share_white_24dp" />-->
+
+        <View
+            android:layout_width="@dimen/_140sdp"
+            android:layout_height="@dimen/_55sdp"
+            android:layout_gravity="top"
+            android:background="@drawable/shadow_top" />
+
+    </FrameLayout>
+    <!--<TextView-->
+    <!--android:id="@+id/tags"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginStart="@dimen/_8sdp"-->
+    <!--android:layout_marginTop="@dimen/_8sdp"-->
+    <!--android:padding="@dimen/_4sdp"-->
+    <!--android:textColor="@android:color/white"-->
+    <!--android:background="@color/red"-->
+    <!--tools:text="hello world" />-->
+
+    <TextView
+        android:id="@+id/meal_name"
+        fontPath="fonts/DinNextRegular.ttf"
+        android:layout_width="@dimen/_140sdp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_8sdp"
+        android:textColor="#0A3142"
+        android:textSize="17sp"
+        tools:text="Hello" />
+
+</LinearLayout>

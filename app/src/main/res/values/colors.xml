@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="searchBarPrimaryColor">#FFFFFF</color>-->
+    <color name="colorPrimary">#E0E0E0</color>
+    <color name="colorPrimaryDark">#E0E0E0</color>
+    <color name="colorAccent">#8000</color>
+    <color name="orange">#E65100</color>
+    <color name="mid_gray">#FFA9A9A9</color>
+    <color name="light_gray">#ececec</color>
+    <color name="red">#FF0000</color>
+    <color name="colorShadow">#5a000000</color>
+    <color name="centerShadow">#1e000000</color>
+    <color name="united_nations_blue">#ff50a0df</color>
+    <color name="purple_500">#9C27B0</color>
+    <color name="deep_purple_500">#673AB7</color>
+    <color name="indigo_500">#3F51B5</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="cyan_500">#00BCD4</color>
+    <color name="light_blue_500">#03A9F4</color>
+    <color name="asian">#FFCA00</color>
+    <color name="oriental">#0B2B5C</color>
+    <color name="indian">#006900</color>
+    <color name="european">#BF160F</color>
+    <color name="sweets">#FFC4E2</color>
+    <color name="black">#000000</color>
+    <color name="gray_toolbar">#212121</color>
+    <color name="gray_background">#303030</color>
+    <color name="gray_card">#424242</color>
+
+</resources>

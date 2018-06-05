@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">وصفة</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="today_meal">وصفات اليوم</string>
+    <string name="featured_category">أقسام مميزة</string>
+    <string name="title">وصفة</string>
+    <string name="street_food">أكل شوارع</string>
+    <string name="kitchens">مطابخ</string>
+    <string name="mix">منوعات</string>
+    <string name="seafood">مأكولات بحرية</string>
+    <string name="oriental">المطبخ الشرقى</string>
+    <string name="indian_food">المطبخ الهندى</string>
+    <string name="european_food">المطبخ الأوروبى</string>
+    <string name="turkish_food">المطبخ التركي</string>
+    <string name="asian_food">المطبخ الأسيوى</string>
+    <string name="meat">اللحوم</string>
+    <string name="american_food">المطبخ الأمريكى</string>
+    <string name="sweets">الحلويات</string>
+    <string name="drinks">المشروبات</string>
+    <string name="advices">نصائح</string>
+    <string name="more">المزيد</string>
+    <string name="health">صحة</string>
+    <string name="categories">الأقسام</string>
+    <string name="recipe_content">طريقة التحضير</string>
+    <string name="recipe">المقادير</string>
+    <string name="no_results">لا يوجد نتائج</string>
+    <string name="rate_title">قيّم التطبيق</string>
+    <string name="rate_msg">هل بأمكانك تقييم التطبيق لمساعدتنا في تقديم خدمه افضل ؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا, شكراً</string>
+    <string name="later">لاحقا</string>
+    <string name="internet_problem">يبدو انك تواجه مشكلة بالانترنت</string>
+    <string name="supermama"><a href="https://www.supermama.me/">المصدر: موقع سوبرماما</a></string>
+    <string name="ma7shy"><a href="https://www.ma7shy.com/">المصدر: موقع محشي.كوم</a></string>
+    <string name="history">اخر المشاهدات</string>
+    <!--<string name="supermama">المصدر: موقع سوبرماما</string>-->
+    <!--<string name="ma7shy">المصدر: موقع محشي.كوم</string>-->
+    <!--<string name="supermama">المصدر: موقع سوبرماما<a href="https://www.supermama.me/">https://www.supermama.me/</a></string>-->
+    <!--<string name="ma7shy">المصدر: موقع محشي.كوم<a href="https://www.ma7shy.com/">https://www.ma7shy.com/</a></string>-->
+    <string-array name="tabs">
+        <item>الرئيسية</item>
+        <item>وصفات</item>
+        <item>نصائح</item>
+        <item>صحة</item>
+        <item>فيديوهات</item>
+    </string-array>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layoutDirection="rtl"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="@dimen/_150sdp"
+        android:layout_height="@dimen/_150sdp">
+
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            tools:background="@android:color/white" />
+
+        <View
+            android:layout_width="@dimen/_150sdp"
+            android:layout_height="@dimen/_65sdp"
+            android:layout_gravity="bottom"
+            android:background="@drawable/shadow" />
+
+        <TextView
+            android:id="@+id/meal_name"
+            android:layout_width="@dimen/_150sdp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|start"
+            android:layout_margin="@dimen/_8sdp"
+            android:textColor="@android:color/white"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            tools:text="Hello" />
+        <!--<ImageView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="bottom|start"-->
+        <!--android:layout_margin="@dimen/_8sdp"-->
+        <!--android:src="@drawable/ic_share_white_24dp" />-->
+
+    </FrameLayout>
+    <!--<TextView-->
+    <!--android:id="@+id/tags"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginStart="@dimen/_8sdp"-->
+    <!--android:layout_marginTop="@dimen/_8sdp"-->
+    <!--android:padding="@dimen/_4sdp"-->
+    <!--android:textColor="@android:color/white"-->
+    <!--android:background="@color/red"-->
+    <!--tools:text="hello world" />-->
+
+
+</LinearLayout>

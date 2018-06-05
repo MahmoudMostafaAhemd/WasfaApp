@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "467754444019",
+    "firebase_url": "https://wasfa-24058.firebaseio.com",
+    "project_id": "wasfa-24058",
+    "storage_bucket": "wasfa-24058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467754444019:android:709598b942349f58",
+        "android_client_info": {
+          "package_name": "com.aklat.cooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467754444019-p3dg2kehdao15bvse1tro2ohtlhh9tu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4DnirOwc9mpy52rFnCPgSezSuEw8akEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467754444019:android:5d540c2407a08bc4",
+        "android_client_info": {
+          "package_name": "com.food.cooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467754444019-p3dg2kehdao15bvse1tro2ohtlhh9tu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4DnirOwc9mpy52rFnCPgSezSuEw8akEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467754444019:android:517c2f0a90cf73e1",
+        "android_client_info": {
+          "package_name": "com.recipe.cooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467754444019-p3dg2kehdao15bvse1tro2ohtlhh9tu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4DnirOwc9mpy52rFnCPgSezSuEw8akEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467754444019:android:11ce269d746e9511",
+        "android_client_info": {
+          "package_name": "com.wasfa.wasfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467754444019-p3dg2kehdao15bvse1tro2ohtlhh9tu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4DnirOwc9mpy52rFnCPgSezSuEw8akEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
